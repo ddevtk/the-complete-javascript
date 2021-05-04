@@ -1,0 +1,22 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "dDev",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "@babel/node": "^7.13.13",
+    "webpack": "^5.30.0"
+  },
+  "dependencies": {
+    "core-js": "^3.10.0",
+    "regenerator-runtime": "^0.13.7",
+    "sass": "^1.32.8"
+  }
+}
